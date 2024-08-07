@@ -1,18 +1,2 @@
-{
-  "name": "test4.txt",
-  "path": "test4.txt",
-  "sha": "7f650687714820401194998fcb6bbd8ead2c6d8c",
-  "size": 36,
-  "url": "https://api.github.com/repos/UserPeterWeng/public_git_test/contents/test4.txt?ref=main",
-  "html_url": "https://github.com/UserPeterWeng/public_git_test/blob/main/test4.txt",
-  "git_url": "https://api.github.com/repos/UserPeterWeng/public_git_test/git/blobs/7f650687714820401194998fcb6bbd8ead2c6d8c",
-  "download_url": "https://raw.githubusercontent.com/UserPeterWeng/public_git_test/main/test4.txt",
-  "type": "file",
-  "content": "dGVzdCB0byB1cGxvYWQgZ2l0aHViIHByb2plY3QNCjEyMzQ1\n",
-  "encoding": "base64",
-  "_links": {
-    "self": "https://api.github.com/repos/UserPeterWeng/public_git_test/contents/test4.txt?ref=main",
-    "git": "https://api.github.com/repos/UserPeterWeng/public_git_test/git/blobs/7f650687714820401194998fcb6bbd8ead2c6d8c",
-    "html": "https://github.com/UserPeterWeng/public_git_test/blob/main/test4.txt"
-  }
-}
+test to upload github project
+12345
