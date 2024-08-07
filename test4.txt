@@ -1,5 +1,18 @@
 {
-  "message": "Not Found",
-  "documentation_url": "https://docs.github.com/rest/repos/contents#get-repository-content",
-  "status": "404"
+  "name": "test4.txt",
+  "path": "test4.txt",
+  "sha": "8108542902e099fa18b66d7d3d87732ff1f9b8fb",
+  "size": 141,
+  "url": "https://api.github.com/repos/UserPeterWeng/public_git_test/contents/test4.txt?ref=main",
+  "html_url": "https://github.com/UserPeterWeng/public_git_test/blob/main/test4.txt",
+  "git_url": "https://api.github.com/repos/UserPeterWeng/public_git_test/git/blobs/8108542902e099fa18b66d7d3d87732ff1f9b8fb",
+  "download_url": "https://raw.githubusercontent.com/UserPeterWeng/public_git_test/main/test4.txt",
+  "type": "file",
+  "content": "ewogICJtZXNzYWdlIjogIk5vdCBGb3VuZCIsCiAgImRvY3VtZW50YXRpb25f\ndXJsIjogImh0dHBzOi8vZG9jcy5naXRodWIuY29tL3Jlc3QvcmVwb3MvY29u\ndGVudHMjZ2V0LXJlcG9zaXRvcnktY29udGVudCIsCiAgInN0YXR1cyI6ICI0\nMDQiCn0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/UserPeterWeng/public_git_test/contents/test4.txt?ref=main",
+    "git": "https://api.github.com/repos/UserPeterWeng/public_git_test/git/blobs/8108542902e099fa18b66d7d3d87732ff1f9b8fb",
+    "html": "https://github.com/UserPeterWeng/public_git_test/blob/main/test4.txt"
+  }
 }
